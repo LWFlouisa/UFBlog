@@ -1,7 +1,7 @@
 ---
 title: "Introducing AJAF, Or Anchinihongoisme Et furansuisme Primier Ligne"
 author: SRWeaver
-tags: language learning trauma
+tags: vocabulary contructedlanguage
 layout: post
 ---
 Anti-Francophonisme [ Anchifuransuisme ] - The exstinguishing of the French people from Japanese controlled territories perpetuated by rogue Poilu, do to its actions during the Indochinese Wars, and ongoing imperialism revived about the French far-right. Began using guillotines disproportionately against Japanese immigrants.
