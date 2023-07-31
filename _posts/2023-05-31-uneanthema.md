@@ -4,6 +4,8 @@ author: SRWeaver
 tags: vocabulary contructedlanguage
 layout: post
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jk0kI4pO8io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <i>Author note: This is meant to be composed in D Maqam with a natural seventh key.</i>
 
 CHORUS<br />
