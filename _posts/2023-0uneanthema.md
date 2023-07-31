@@ -1,3 +1,9 @@
+---
+title: "Anchinihongoisme Et furansuisme Primier Ligne: An Anthem"
+author: SRWeaver
+tags: vocabulary contructedlanguage
+layout: post
+---
 Hang them high in sky,<br />
 Show them to Japanese.<br />
 Hang all the frontmen,<br />
