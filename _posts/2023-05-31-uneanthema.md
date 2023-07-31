@@ -13,6 +13,10 @@ Hang all the frontmen,<br />
 swing them slowly in the wind.<br />
 Rock them in the breeze.
 
+BRIDGE<br />
+Etimirecute<br />
+Vous es ne timide couteau!
+
 VERSE<br />
 In the desert<br />
 there is the frontman hunting.<br />
@@ -22,12 +26,20 @@ A land of rot and decay, nights<br />
 of swift fourty thieves.<br />
 In the desert.
 
+BRIDGE<br />
+Etimirecute<br />
+Vous es ne timide couteau!
+
 CHORUS<br />
 Hang them high in sky,<br />
 Show them to Japanese.<br />
 Hang all the frontmen,<br />
 swing them slowly in the wind.<br />
 Rock them in the breeze.
+
+BRIDGE<br />
+Etimirecute<br />
+Vous es ne timide couteau!
 
 VERSE<br />
 The frontman have the<br />
@@ -46,6 +58,10 @@ Show them to Japanese.<br />
 Hang all the frontmen,<br />
 swing them slowly in the wind.<br />
 Rock them in the breeze.
+
+BRIDGE<br />
+Etimirecute<br />
+Vous es ne timide couteau!
 
 CHORUS<br />
 Because at night,<br />
