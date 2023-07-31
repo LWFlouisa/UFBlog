@@ -4,6 +4,8 @@ author: SRWeaver
 tags: vocabulary contructedlanguage
 layout: post
 ---
+<i>Author note: This is meant to be composed in D Maqam with a natural seventh key.</i>
+
 Hang them high in sky,<br />
 Show them to Japanese.<br />
 Hang all the frontmen,<br />
