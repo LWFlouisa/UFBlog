@@ -6,7 +6,7 @@ layout: post
 ---
 <i>Author note: This is meant to be composed in D Maqam with a natural seventh key.</i>
 
-CHORUS
+CHORUS<br />
 Hang them high in sky,<br />
 Show them to Japanese.<br />
 Hang all the frontmen,<br />
