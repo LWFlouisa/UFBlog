@@ -1,3 +1,9 @@
+---
+title: "Anchinihongoisme Et furansuisme Primier Ligne: Etimirecute"
+author: SRWeaver
+tags: vocabulary musictheory maqamnaturalseventh
+layout: post
+---
 These are the tones that a Maqam with a natural seventh can be broken down into:
 
 ~~~
