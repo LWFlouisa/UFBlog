@@ -1,5 +1,5 @@
 ---
-title: "Anchinihongoisme Et furansuisme Primier Ligne: An Anthem"
+title: "Anchinihongoisme Et furansuisme Primier Ligne: Etimirecute"
 author: SRWeaver
 tags: vocabulary contructedlanguage
 layout: post
