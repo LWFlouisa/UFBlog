@@ -11,3 +11,6 @@ layout: post
 | language      | nihongo                      | francais, japanais, ahusacos ( final language evolution ) |
 | medium        | G Pen                        | Reed Pen, Calligraphic                                    |
 | theme         | Magazine Specific            | Gallows Humor, Depression, Pacifism, Social Advocacy      |
+
+
+Desuferumu translates to "Death Frames"; the synonym for them is "Shikoma".
