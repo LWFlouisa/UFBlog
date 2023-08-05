@@ -1,3 +1,9 @@
+---
+title: "Composition Theory Of Desuferumu"
+author: SRWeaver
+tags: vocabulary desuferumu
+layout: post
+---
 |               | manga                        | desuferumu                                                |
 |---------------|------------------------------|-----------------------------------------------------------|
 | reading order | right to left, top to bottom | top to bottom, right to left                              |
