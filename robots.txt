@@ -1,2 +1,4 @@
-User-agent: GPTBot
+Sitemap: https:://lwflouisa.github.io/
+
+User-agent: *
 Disallow: /
