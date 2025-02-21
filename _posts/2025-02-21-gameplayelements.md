@@ -3,6 +3,7 @@ title: "Current Gameplay Elements"
 author: "S.R. Weaver / NumeroHex"
 tags: rockpaperscissors lunarrps clockbased lunarcalender hypercube
 ---
+# News
 ## LANGAUGE CHANGES
 Currently in the process of switches to programming in C, although certain things I will still need to develop in Ruby, such as menu screens.
 
@@ -11,3 +12,7 @@ While the original plot continues to be based around Sister Chaos and Sister Ord
 
 ## GAMEPLAY
 Gameplay revolves around a lunar calender and different subsets of Rock-Paper-Scissors, which will over take be expanding into different gameplay loops. And if I produce a tiles version, will likely be Octogonal in approach. I will expand more on the monster taming elements as time allows.
+
+# Uploaded Fairy
+## Page Three
+[]()
