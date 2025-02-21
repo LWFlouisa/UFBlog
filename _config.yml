@@ -1,6 +1,6 @@
 title: "Uploaded Fairy Blog"
 author: "S.R Weaver"
-email: yjsybhvfn@tznvy.pbz
+email: 
 description: > # this means to ignore newlines until "show_exerpts:"
   Blog for my webcomic Uploaded Fairy.
 
@@ -31,10 +31,10 @@ minima:
 
     # Mastodon instances
     mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
+     - username: LWFlouisa
+       instance: comics.town
+     - username: LWFlouisa
+       instance: kpop.social
 
 # Build settings
 theme: minima
