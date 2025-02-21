@@ -15,4 +15,4 @@ Gameplay revolves around a lunar calender and different subsets of Rock-Paper-Sc
 
 # Uploaded Fairy
 ## Page Three
-[]()
+![PAGE THREE](https://raw.githubusercontent.com/LWFlouisa/UFBlog/refs/heads/main/images/Pages/page3.jpg)
