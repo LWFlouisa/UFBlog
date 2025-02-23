@@ -1,5 +1,7 @@
 ---
 title: "Uploaded Fairy Page 5, "
+author: "S.R. Weaver / Author"
+tags: webcomic anisesstories gamedevnews
 ---
 ## UPLADED FAIRY: WITH DREAMS NOT SECRED
 ![With Dreams Not Sacred](https://raw.githubusercontent.com/LWFlouisa/UFBlog/refs/heads/main/images/Pages/page5.jpg)
