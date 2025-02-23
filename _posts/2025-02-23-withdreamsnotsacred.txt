@@ -1,8 +1,8 @@
 ---
 title: "Uploaded Fairy Page 5, "
 ---
-## WITH DREAMS NOT SECRED
-![]()
+## UPLADED FAIRY: WITH DREAMS NOT SECRED
+![With Dreams Not Sacred](https://raw.githubusercontent.com/LWFlouisa/UFBlog/refs/heads/main/images/Pages/page5.jpg)
 
 ## Anise's Stories
 The breeze of the wind, give the air a strong chill.
@@ -88,3 +88,6 @@ It was the following evening that the family joined together at the table. Neith
 “This is fantastic Aunt Betsy.” said Anise.
 
 “And it was all thanks to your mother's help.”
+
+## GAMEDEV NEWS
+Not current news,but I'm thinking of refocusing on just uses a non curses implementation of Yumemoire.
