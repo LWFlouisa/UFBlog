@@ -4,7 +4,7 @@ author: "S.R. Weaver / NumeroHex"
 tags: uploadedfairy farewelltoannelori frenchcolonialgothic guillotinewestern
 ---
 ## Uploaded Fairy Page 6
-![]()
+![PAGE6](https://raw.githubusercontent.com/LWFlouisa/UFBlog/refs/heads/main/images/Pages/page6.jpg)
 
 ## Bartie's Poems
 ### Farewell To Annie Lori
