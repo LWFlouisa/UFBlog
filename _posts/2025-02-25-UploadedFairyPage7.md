@@ -1,8 +1,8 @@
 ---
-title: "Uploaded Fairy Page 6, "
+title: "Uploaded Fairy Page 7, Daena's Book, Elements Of Game Design"
 ---
-## Uploaded Fairy Page 6
-![Page 6]()
+## Uploaded Fairy Page 7
+![Page 7](https://raw.githubusercontent.com/LWFlouisa/UFBlog/refs/heads/main/images/Pages/page7.jpg)
 
 ## Daena's Books
 Along came a spider down the wall, a klompen stomped on it. The young girl took her hankerchief and placed the bug in the garbage. “We have a pest problem, mother.” she said, to the woman reading her book in the living room. The girl’s cheeks were beginning to become red, when it was obvious that her mother was not listening to her. Daena was beginning to walk up the stairs, when the mother closed her book. And then tilted her glasses in the direction of her daughter.
