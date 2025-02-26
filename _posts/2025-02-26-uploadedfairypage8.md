@@ -63,7 +63,7 @@ three = 3
 if not 3 == three
   puts "This is not the number three."
 else
-  puts "This is the number three".
+  puts "This is the number three."
 end
 ~~~
 
