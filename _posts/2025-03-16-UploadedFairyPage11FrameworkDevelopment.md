@@ -21,3 +21,48 @@ I’m wanting to create a map structure for Hexagonal map navigation, to be more
 This is why I’m going to be moving more in the direction of RPS-Like rather than Rogue-Likes, which would have its own genre-specifics for how it implements things. As at this point I’m mainly developing this framework for my own specific needs, which is rapidly diverging from the needs of Roguelike development.
 
 I’ll do an article on the specific ways RPS-Likes differ from Roguelikes at a later point.
+
+## Toward A Different Programming Paradigm
+This is something I've been wanting to development as a slightly different way of programming, which may evolve into a DSL.
+
+### French Specific
+~~~
+fonc cette_pomme_et_jaune:
+  cette "le pomme" == rouge, mais cette "le banane" == jaune:
+    parle("That apple is: '); lisen(rouge).
+    parle("That banana is: '); lisen(jaune).
+  sinon:
+    parle("All else is needs not be written.").
+  fin
+fin
+~~~
+
+Suppose this was a French dialect of that-but that-otherwise. The idea here is some things would be in Francais, and otherwise in Nihongo for things that have no equivalent in Francais. Talk me only in English please.
+
+### Japanese Specific
+Shouganai   - Cannot be helped / avoided.        Ex. cette "guillotine" == shouganai; parle("Je suis mort"); mort<br />
+Wabi-Sabi   - Finding beauty in imperfection.    Ex. In Fruby, "wabisab", or avoid correcting a dataset when the only change is stylistic.<br />
+Boketto     - Gazing vacantly into the distance. Ex. In Fruby, this would be used as a verb: to "a bokette", or "to look into" implying a sleep condition before reading.<br />
+Fuubutsushi - Anticipate a shift in the dataset that evoke a particular feeling. Ex. Predict sensationalism.<br />
+
+~~~
+fubu(rouge). # records state of rogue.
+fubu(jaune). # records state of yellow.
+
+wabisab rogue et jaune:           # If change to code is stylistic, maintains to avoid breaking.
+  bokette(rouge); bokette(jaune). # Read file with a sleep condition.
+shouganai:                        # If breakage unavoidable, isolates it to a folder that isn't otherwise used..
+  mod(rogue); mod(jaune).         # Modifies files to avoid conflicting with other datasets.
+~~~
+
+## Proposed But Not Considered
+~~~
+fonc calculer_somme:
+  cette nombre = 0
+  pour chaque element dans liste:
+    si element > limite:
+      mort  # Terminates loop early
+    nombre += element
+  fin
+fin
+~~~
