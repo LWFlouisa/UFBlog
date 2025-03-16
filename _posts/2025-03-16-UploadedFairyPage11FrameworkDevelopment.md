@@ -4,7 +4,7 @@ author: "S.R. Weaver / Numerhex / L.W. Flouisa"
 tags: roguelikes rpslikes webcomic
 ---
 ## Uploaded Fairy Page 11
-![Uploaded Fairy Page 11]()
+![Uploaded Fairy Page 11](https://github.com/LWFlouisa/UFBlog/blob/main/images/Pages/page11.jpg?raw=true)
 
 ## Why I Cant Stand Framework Development For Those Whom Despise Innovation
 Object-oriented-programming does not work for my specific use case. Technically the way that it’s suppose to work is that you have four Biome modules, and in each biome you have classes for each object relevant to your specific biome: plants, animals, and Rocks. Cats would do everything an animal cat, plus their own unique functions. Bananas everything a plant can. So the theory goes that you only use instance variables that pertain to each class, and local variables for specific functions.
