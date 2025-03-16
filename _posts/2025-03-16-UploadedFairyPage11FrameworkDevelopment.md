@@ -22,6 +22,45 @@ This is why I’m going to be moving more in the direction of RPS-Like rather th
 
 I’ll do an article on the specific ways RPS-Likes differ from Roguelikes at a later point.
 
+## Updates In Enemy AI Enhancements
+These are formulas I've development for moving on from stupid enemy AI to slightly less stupid Enemy AI for games. Note this is only ever meant to be used for games, and not anything else.
+
+### BASIC FORMULA
+Basic formula for rock-paper-scissors.
+~~~
+Given a chart of 3x3, stalemate happens exactly 3 times.
+From remembered player actions, find an ideal candidate.
+
+Compare generated state based on rows and collumns.
+  ( If result matches generated pathway
+    declare that player's actions has been countered.
+    make this the computer's choice
+
+    ( if computer is correct        [ Player loses hp ]
+    ( Else if computer is incorrect [ Enemy loses hp ]
+
+  ( Els if result doesn't match pathway
+    continue searching until generated result matches ideal candidate.
+~~~
+
+### LARGER DATASETS
+Solutions for larger datasets.
+~~~
+Given a chart of 14x14, stalemate happens exactly 14 times.
+From remembered player actions shuffled, find an ideal candidate. [ Shuffling remembered datasets reduces chance for error. ]
+
+Compare generated state based on rows and collumns.
+  ( If result matches generated pathway
+    declare that player's actions has been countered.
+    make this the computer's choice
+
+    ( if computer is correct        [ Player loses hp ]
+    ( Else if computer is incorrect [ Enemy loses hp ]
+
+  ( Els if result doesn't match pathway
+    continue searching until generated result matches ideal candidate.
+~~~
+
 ## Toward A Different Programming Paradigm
 This is something I've been wanting to development as a slightly different way of programming, which may evolve into a DSL.
 
