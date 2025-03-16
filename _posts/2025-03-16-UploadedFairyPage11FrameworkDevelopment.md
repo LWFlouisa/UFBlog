@@ -4,7 +4,12 @@ author: "S.R. Weaver / Numerhex / L.W. Flouisa"
 tags: roguelikes rpslikes webcomic
 ---
 ## Uploaded Fairy Page 11
-![Uploaded Fairy Page 11](https://github.com/LWFlouisa/UFBlog/blob/main/images/Pages/page11.jpg?raw=true)
+![Uploaded Fairy Page 11](https://github.com/LWFlouisa/UFBlog/blob/main/images/Pages/page11.jpg?raw=true
+
+## Anne Boleyn At Vampire Non
+A riff on Anna Boleyn At High Noon.
+
+<iframe title="Anne Boleyn At Vampire Noon" width="560" height="315" src="https://video.ploud.jp/videos/embed/b2696fce-199c-437a-a487-43e1fe48261f" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 ## Why I Cant Stand Framework Development For Those Whom Despise Innovation
 Object-oriented-programming does not work for my specific use case. Technically the way that it’s suppose to work is that you have four Biome modules, and in each biome you have classes for each object relevant to your specific biome: plants, animals, and Rocks. Cats would do everything an animal cat, plus their own unique functions. Bananas everything a plant can. So the theory goes that you only use instance variables that pertain to each class, and local variables for specific functions.
