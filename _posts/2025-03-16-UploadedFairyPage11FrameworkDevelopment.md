@@ -4,7 +4,7 @@ author: "S.R. Weaver / Numerhex / L.W. Flouisa"
 tags: roguelikes rpslikes webcomic
 ---
 ## Uploaded Fairy Page 11
-![Uploaded Fairy Page 11](https://github.com/LWFlouisa/UFBlog/blob/main/images/Pages/page11.jpg?raw=true
+![Uploaded Fairy Page 11](https://github.com/LWFlouisa/UFBlog/blob/main/images/Pages/page11.jpg?raw=true)
 
 ## Anne Boleyn At Vampire Non
 A riff on Anna Boleyn At High Noon.
