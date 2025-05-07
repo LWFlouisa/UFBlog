@@ -39,3 +39,5 @@ I finally managed to get the Mastodon.social flagship instance to reverse the su
 This is why we don't need to have rules like this, without checking to make sure the person we're suspending is not in fact left-wing themselves or transgendered. What's even more unbelievable is the fact that this instance supposedly resides in Germany, where I thought there were laws against targeted harassment of trans people.
 
 The way that susupensions are determined on Mastodon and activitypub needs a severe overhaul.
+
+Going forward I'll probably work toward running my own Mastodon, Peertube, and Diaspora instances, or hire someone to set one up for me. But I'm going to be directed people away from using Mastodon.social in the pursuit of other Mastodon instances that are more tolerant of LGBT people.
