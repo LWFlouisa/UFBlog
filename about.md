@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-![Balcony Of The Green](https://github.com/LWFlouisa/UFBlog/blob/main/images/BalconyOfTheGreen.png?raw=true)
+![UploadedFairy](https://github.com/LWFlouisa/UFBlog/blob/main/images/UploadedFairy/layer_edited.png?raw=true)
 
 This is my game design, webcomic syndicating, and short story publishing newsletter.
 
